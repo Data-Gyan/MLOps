@@ -1,0 +1,4 @@
+[core]
+    remote = datavault
+['remote "datavault"']
+    url = ../../s3-mimic
