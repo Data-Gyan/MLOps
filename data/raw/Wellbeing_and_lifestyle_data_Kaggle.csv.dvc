@@ -1,0 +1,5 @@
+outs:
+- md5: 8022a5543dac2e9e489ab6b8398ae329
+  size: 1201079
+  hash: md5
+  path: Wellbeing_and_lifestyle_data_Kaggle.csv
